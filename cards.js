@@ -11,6 +11,7 @@ function black() {
     "And I would have gotten away with it, too, if it hadn't been for __________.",
     "Anthropologists have recently discovered a primitive tribe that worships __________.",
     "BILLY MAYS HERE FOR __________.",
+    "Elle a fait un vieux pet mais __________",
     "Betcha can't have just one!",
     "But before I kill you, Mr. Bond, I must show you __________.",
     "Coming to Broadway this season, __________: The Musical.",
@@ -429,6 +430,8 @@ function white() {
    "My inner demons",
    "My machete",
    "My relationship status",
+   "My old pennis",
+   "Ma chatte",
    "My sex life",
    "My soul",
    "My vagina",
@@ -651,6 +654,9 @@ function white() {
    "YOU MUST CONSTRUCT ADDITIONAL PYLONS",
    "Yeast",
    "Zeus's sexual appetites",
+   "Heig-VD Student",
+   "Fabrice is Awesome",
+   "Black wikings",
   ];
 }
 
