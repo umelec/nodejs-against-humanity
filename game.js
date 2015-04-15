@@ -16,7 +16,7 @@ function removeFromArray(array, item) {
 
 function list() {
   return toInfo(_.filter(gameList, function(x) {
-    return x.players.length < 4 && !x.isStarted
+    return x.players.length < 5 && !x.isStarted
   }));
 }
 
